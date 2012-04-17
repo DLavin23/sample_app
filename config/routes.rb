@@ -1,8 +1,9 @@
 SampleApp::Application.routes.draw do
  
-  root to: 'pages#home'
-  get 'home' => 'pages#home'
-  get 'help' => 'pages#help'
+  # root to: 'pages#home'
+  get "pages/home"
+  get "pages/help"
+  get 'pages/about'
 
   
 end
