@@ -1,5 +1,17 @@
 This App was built using the Ruby on Rails Tutorial by Michael Hartl.
 
-Topics Covered: 
+Topics covered: 
 
-rspec testing
+Testing (rspec and cucumber)
+Deployment (Heroku)
+Version Control (Git and Github)
+Database Modeling 
+HTML, CSS, AJAX
+Authorization and Authentication
+Relationships
+Database Migrations
+Sample Data population
+Gems
+And much more...
+
+Outstanding issues: 7 tests still failing, need to fix. 
